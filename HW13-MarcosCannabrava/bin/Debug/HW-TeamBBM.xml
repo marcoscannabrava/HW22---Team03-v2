@@ -1,0 +1,130 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HW-TeamBBM
+</name>
+</assembly>
+<members>
+<member name="M:HW13_MarcosCannabrava.Sheet1.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet1.Initialize">
+</member><member name="M:HW13_MarcosCannabrava.Sheet1.FinishInitialization">
+</member><member name="M:HW13_MarcosCannabrava.Sheet1.InitializeDataBindings">
+</member><member name="M:HW13_MarcosCannabrava.Sheet1.InitializeCachedData">
+</member><member name="M:HW13_MarcosCannabrava.Sheet1.InitializeData">
+</member><member name="M:HW13_MarcosCannabrava.Sheet1.BindToData">
+</member><member name="M:HW13_MarcosCannabrava.Sheet1.StartCaching(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet1.StopCaching(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet1.IsCached(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet1.BeginInitialization">
+</member><member name="M:HW13_MarcosCannabrava.Sheet1.EndInitialization">
+</member><member name="M:HW13_MarcosCannabrava.Sheet1.InitializeControls">
+</member><member name="M:HW13_MarcosCannabrava.Sheet1.InitializeComponents">
+</member><member name="M:HW13_MarcosCannabrava.Sheet1.NeedsFill(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet1.OnShutdown">
+</member><member name="T:HW13_MarcosCannabrava.Sheet1">
+</member><member name="M:HW13_MarcosCannabrava.Sheet4.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet4.Initialize">
+</member><member name="M:HW13_MarcosCannabrava.Sheet4.FinishInitialization">
+</member><member name="M:HW13_MarcosCannabrava.Sheet4.InitializeDataBindings">
+</member><member name="M:HW13_MarcosCannabrava.Sheet4.InitializeCachedData">
+</member><member name="M:HW13_MarcosCannabrava.Sheet4.InitializeData">
+</member><member name="M:HW13_MarcosCannabrava.Sheet4.BindToData">
+</member><member name="M:HW13_MarcosCannabrava.Sheet4.StartCaching(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet4.StopCaching(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet4.IsCached(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet4.BeginInitialization">
+</member><member name="M:HW13_MarcosCannabrava.Sheet4.EndInitialization">
+</member><member name="M:HW13_MarcosCannabrava.Sheet4.InitializeControls">
+</member><member name="M:HW13_MarcosCannabrava.Sheet4.InitializeComponents">
+</member><member name="M:HW13_MarcosCannabrava.Sheet4.NeedsFill(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet4.OnShutdown">
+</member><member name="T:HW13_MarcosCannabrava.Sheet4">
+</member><member name="M:HW13_MarcosCannabrava.Sheet3.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet3.Initialize">
+</member><member name="M:HW13_MarcosCannabrava.Sheet3.FinishInitialization">
+</member><member name="M:HW13_MarcosCannabrava.Sheet3.InitializeDataBindings">
+</member><member name="M:HW13_MarcosCannabrava.Sheet3.InitializeCachedData">
+</member><member name="M:HW13_MarcosCannabrava.Sheet3.InitializeData">
+</member><member name="M:HW13_MarcosCannabrava.Sheet3.BindToData">
+</member><member name="M:HW13_MarcosCannabrava.Sheet3.StartCaching(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet3.StopCaching(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet3.IsCached(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet3.BeginInitialization">
+</member><member name="M:HW13_MarcosCannabrava.Sheet3.EndInitialization">
+</member><member name="M:HW13_MarcosCannabrava.Sheet3.InitializeControls">
+</member><member name="M:HW13_MarcosCannabrava.Sheet3.InitializeComponents">
+</member><member name="M:HW13_MarcosCannabrava.Sheet3.NeedsFill(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet3.OnShutdown">
+</member><member name="T:HW13_MarcosCannabrava.Sheet3">
+</member><member name="M:HW13_MarcosCannabrava.ThisWorkbook.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+</member><member name="M:HW13_MarcosCannabrava.ThisWorkbook.Initialize">
+</member><member name="M:HW13_MarcosCannabrava.ThisWorkbook.FinishInitialization">
+</member><member name="M:HW13_MarcosCannabrava.ThisWorkbook.InitializeDataBindings">
+</member><member name="M:HW13_MarcosCannabrava.ThisWorkbook.InitializeCachedData">
+</member><member name="M:HW13_MarcosCannabrava.ThisWorkbook.InitializeData">
+</member><member name="M:HW13_MarcosCannabrava.ThisWorkbook.BindToData">
+</member><member name="M:HW13_MarcosCannabrava.ThisWorkbook.StartCaching(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.ThisWorkbook.StopCaching(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.ThisWorkbook.IsCached(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.ThisWorkbook.BeginInitialization">
+</member><member name="M:HW13_MarcosCannabrava.ThisWorkbook.EndInitialization">
+</member><member name="M:HW13_MarcosCannabrava.ThisWorkbook.InitializeControls">
+</member><member name="M:HW13_MarcosCannabrava.ThisWorkbook.InitializeComponents">
+</member><member name="M:HW13_MarcosCannabrava.ThisWorkbook.NeedsFill(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.ThisWorkbook.OnShutdown">
+</member><member name="T:HW13_MarcosCannabrava.ThisWorkbook">
+</member><member name="M:HW13_MarcosCannabrava.Globals.#ctor">
+</member><member name="T:HW13_MarcosCannabrava.Globals">
+</member><member name="M:HW13_MarcosCannabrava.ThisRibbonCollection.#ctor(Microsoft.Office.Tools.Ribbon.RibbonFactory)">
+</member><member name="T:HW13_MarcosCannabrava.ThisRibbonCollection">
+</member><member name="M:HW13_MarcosCannabrava.Sheet5.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet5.Initialize">
+</member><member name="M:HW13_MarcosCannabrava.Sheet5.FinishInitialization">
+</member><member name="M:HW13_MarcosCannabrava.Sheet5.InitializeDataBindings">
+</member><member name="M:HW13_MarcosCannabrava.Sheet5.InitializeCachedData">
+</member><member name="M:HW13_MarcosCannabrava.Sheet5.InitializeData">
+</member><member name="M:HW13_MarcosCannabrava.Sheet5.BindToData">
+</member><member name="M:HW13_MarcosCannabrava.Sheet5.StartCaching(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet5.StopCaching(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet5.IsCached(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet5.BeginInitialization">
+</member><member name="M:HW13_MarcosCannabrava.Sheet5.EndInitialization">
+</member><member name="M:HW13_MarcosCannabrava.Sheet5.InitializeControls">
+</member><member name="M:HW13_MarcosCannabrava.Sheet5.InitializeComponents">
+</member><member name="M:HW13_MarcosCannabrava.Sheet5.NeedsFill(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet5.OnShutdown">
+</member><member name="T:HW13_MarcosCannabrava.Sheet5">
+</member><member name="M:HW13_MarcosCannabrava.Sheet2.#ctor(Microsoft.Office.Tools.Excel.Factory,System.IServiceProvider)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet2.Initialize">
+</member><member name="M:HW13_MarcosCannabrava.Sheet2.FinishInitialization">
+</member><member name="M:HW13_MarcosCannabrava.Sheet2.InitializeDataBindings">
+</member><member name="M:HW13_MarcosCannabrava.Sheet2.InitializeCachedData">
+</member><member name="M:HW13_MarcosCannabrava.Sheet2.InitializeData">
+</member><member name="M:HW13_MarcosCannabrava.Sheet2.BindToData">
+</member><member name="M:HW13_MarcosCannabrava.Sheet2.StartCaching(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet2.StopCaching(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet2.IsCached(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet2.BeginInitialization">
+</member><member name="M:HW13_MarcosCannabrava.Sheet2.EndInitialization">
+</member><member name="M:HW13_MarcosCannabrava.Sheet2.InitializeControls">
+</member><member name="M:HW13_MarcosCannabrava.Sheet2.InitializeComponents">
+</member><member name="M:HW13_MarcosCannabrava.Sheet2.NeedsFill(System.String)">
+</member><member name="M:HW13_MarcosCannabrava.Sheet2.OnShutdown">
+</member><member name="T:HW13_MarcosCannabrava.Sheet2">
+</member><member name="P:HW13_MarcosCannabrava.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HW13_MarcosCannabrava.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:HW13_MarcosCannabrava.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,287 @@
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Resources.resources
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet1.resources
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet2.resources
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet3.resources
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet4.resources
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.SpartanTraderRibbon.resources
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.vbproj.GenerateResource.Cache
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.pdb
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xml
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll.manifest
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.vsto
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xlsm
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.dll
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.xml
+C:\Users\mpc4s\Documents\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.pdb
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.pdb
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xml
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll.manifest
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.vsto
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xlsm
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Resources.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet1.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet2.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet3.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet4.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.SpartanTraderRibbon.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.vbproj.GenerateResource.Cache
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.dll
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.xml
+C:\Users\bbr6d.MCINTIRE\Desktop\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.pdb
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.pdb
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xml
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll.manifest
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.vsto
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xlsm
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Resources.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet1.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet2.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet3.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet4.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.SpartanTraderRibbon.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.vbproj.GenerateResource.Cache
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.dll
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.xml
+C:\Users\bbr6d.MCINTIRE\Desktop\HW16-Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.pdb
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.pdb
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xml
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll.manifest
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.vsto
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xlsm
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Resources.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet1.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet2.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet3.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet4.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.SpartanTraderRibbon.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.vbproj.GenerateResource.Cache
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.dll
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.xml
+C:\Users\bbr6d.MCINTIRE\Desktop\team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.pdb
+F:\HW - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll
+F:\HW - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.pdb
+F:\HW - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xml
+F:\HW - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll.manifest
+F:\HW - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.vsto
+F:\HW - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xlsm
+F:\HW - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+F:\HW - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+F:\HW - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+F:\HW - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+F:\HW - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Resources.resources
+F:\HW - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet1.resources
+F:\HW - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet2.resources
+F:\HW - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet3.resources
+F:\HW - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet4.resources
+F:\HW - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.SpartanTraderRibbon.resources
+F:\HW - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.vbproj.GenerateResource.Cache
+F:\HW - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.dll
+F:\HW - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.xml
+F:\HW - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.pdb
+F:\HW18 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll
+F:\HW18 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.pdb
+F:\HW18 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xml
+F:\HW18 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll.manifest
+F:\HW18 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.vsto
+F:\HW18 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xlsm
+F:\HW18 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+F:\HW18 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+F:\HW18 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+F:\HW18 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+F:\HW18 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Resources.resources
+F:\HW18 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet1.resources
+F:\HW18 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet2.resources
+F:\HW18 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet3.resources
+F:\HW18 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet4.resources
+F:\HW18 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.SpartanTraderRibbon.resources
+F:\HW18 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.vbproj.GenerateResource.Cache
+F:\HW18 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.dll
+F:\HW18 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.xml
+F:\HW18 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.pdb
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Resources.resources
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet1.resources
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet2.resources
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet3.resources
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet4.resources
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.SpartanTraderRibbon.resources
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.vbproj.GenerateResource.Cache
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.dll
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.xml
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.pdb
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.pdb
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xml
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll.manifest
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.vsto
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xlsm
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\bbr6d\Desktop\HW19 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Resources.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet1.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet2.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet3.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet4.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet5.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.SpartanTraderRibbon.resources
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.vbproj.GenerateResource.Cache
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.dll
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.xml
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.pdb
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.pdb
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xml
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll.manifest
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.vsto
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xlsm
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\bbr6d.MCINTIRE\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.pdb
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xml
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll.manifest
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.vsto
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xlsm
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Resources.resources
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet1.resources
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet2.resources
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet3.resources
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet4.resources
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet5.resources
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.SpartanTraderRibbon.resources
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.vbproj.GenerateResource.Cache
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.dll
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.xml
+C:\Users\bbr6d\Desktop\HW20 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.pdb
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.pdb
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xml
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll.manifest
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.vsto
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xlsm
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Resources.resources
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet1.resources
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet2.resources
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet3.resources
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet4.resources
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet5.resources
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.SpartanTraderRibbon.resources
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.vbproj.GenerateResource.Cache
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.dll
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.xml
+C:\Users\mpc4s\Documents\HW21 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.pdb
+F:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Resources.resources
+F:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet1.resources
+F:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet2.resources
+F:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet3.resources
+F:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet4.resources
+F:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet5.resources
+F:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.SpartanTraderRibbon.resources
+F:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.vbproj.GenerateResource.Cache
+F:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.dll
+F:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.xml
+F:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.pdb
+F:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll
+F:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.pdb
+F:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xml
+F:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll.manifest
+F:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.vsto
+F:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xlsm
+F:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+F:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+F:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+F:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+J:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll
+J:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.pdb
+J:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xml
+J:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll.manifest
+J:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.vsto
+J:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xlsm
+J:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+J:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+J:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+J:\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+J:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Resources.resources
+J:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet1.resources
+J:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet2.resources
+J:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet3.resources
+J:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet4.resources
+J:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet5.resources
+J:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.SpartanTraderRibbon.resources
+J:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.vbproj.GenerateResource.Cache
+J:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.dll
+J:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.xml
+J:\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.pdb
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.pdb
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xml
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll.manifest
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.vsto
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xlsm
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Resources.resources
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet1.resources
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet2.resources
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet3.resources
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet4.resources
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet5.resources
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.SpartanTraderRibbon.resources
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.vbproj.GenerateResource.Cache
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.dll
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.xml
+C:\Users\sg6m\Desktop\HW22 - Team03\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.pdb
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.pdb
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xml
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.dll.manifest
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.vsto
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\bin\Debug\HW-TeamBBM.xlsm
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Resources.resources
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet1.resources
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet2.resources
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet3.resources
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet4.resources
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.Sheet5.resources
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\obj\Debug\HW13_MarcosCannabrava.SpartanTraderRibbon.resources
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.vbproj.GenerateResource.Cache
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.dll
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.xml
+C:\Users\mpc4s\Documents\HW22 - Team03 v2\HW13-MarcosCannabrava\obj\Debug\HW-TeamBBM.pdb
